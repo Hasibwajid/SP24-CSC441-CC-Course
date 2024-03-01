@@ -35,7 +35,7 @@ Review Output:
 
 Example: 
 
-    ![image](https://github.com/Hasibwajid/Compiler-construction-Course/assets/72168225/6f128ccf-52e6-49da-8618-ee682fdca56f)
+![image](https://github.com/Hasibwajid/Compiler-construction-Course/assets/72168225/6f128ccf-52e6-49da-8618-ee682fdca56f)
 
 
 Additional Notes
