@@ -7,17 +7,17 @@ Filename
 LexicalAnalyzer.c
 Files Created
 
-    Input File:
+Input File:
         input - Contains the C program to be analyzed.
-    Output Files:
+Output Files:
         identifier - Stores identifiers and keywords.
         specialchar - Stores special characters.
 
 Usage
 
-    Compile the Code:
+Compile the Code:
 
-    bash
+bash
     
     gcc LexicalAnalyzer.c -o LexicalAnalyzer
 
